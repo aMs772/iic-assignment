@@ -1,606 +1,88 @@
-Query: what is iic
+Query: who is harry potter
 
-Document: Unlike student clubs, the IIC is an official institute body that reports to the Ministry of Education through the MIC portal. At IIT Bombay, the IIC functions under the Desai Sethi School of Entrepreneurship (DSSE).
+Document: ## Harry Potter
 
-Its mission is to strengthen the innovation ecosystem by helping students move from ideas to prototypes, intellectual property, incubation, commercialization, and startups.
+Document: Harry Potter is the protagonist of the series, born on July 31st. He is the son of James and Lily Potter, both killed by Lord Voldemort when Harry was an infant. Voldemort's killing curse rebounded upon himself when he tried to kill baby Harry, leaving Harry with a lightning-bolt scar on his forehead and ending Voldemort's first reign of terror. Harry was raised by his aversive Muggle relatives, the Dursleys, in Privet Drive, unaware of his magical heritage until he received his Hogwarts letter at age eleven. He is sorted into Gryffindor, becomes the youngest Quidditch Seeker in a century, and ultimately proves to be the "Chosen One" prophesied to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix
 
-====================================================================
-WHY DOES IIC EXIST?
-====================================================================
+Document: ## Hermione Granger
+Hermione Granger is one of Harry's closest friends, sorted into Gryffindor. She is Muggle-born, meaning both her parents are non-magical (dentists, in her case). She is characterized by exceptional academic ability, a strong moral compass, and a dedication to research and rule-following that occasionally clashes with Harry and Ron's more impulsive approach. She founded S.P.E.W. (the Society for the Promotion of Elfish Welfare) to advocate for house-elf rights. She eventually marries Ron Weasley.
 
-The objective of IIC is to ensure that innovation is not limited to isolated student clubs or research groups. Instead, it creates a structured innovation ecosystem within the institute.
-
-The council helps:
-
-Document: Participation in IIC helps students gain:
-
-- National recognition
-- Patent filing support
-- Innovation funding opportunities
-- Startup mentorship
-- Access to Smart India Hackathon
-- Access to YUKTI
-- Access to KAPILA
-- Innovation Ambassador programs
-
-====================================================================
-CURRENT STATUS OF IIC IIT BOMBAY
-====================================================================
-
-Current Rating:
-4-Star IIC
-
-The council significantly improved its rating in recent years and aims to achieve a 5-Star rating.
-
-====================================================================
-HOW IS IIC EVALUATED?
-====================================================================
-
-The annual score consists of five components.
-
-1. Calendar Activities (40%)
-
-Document: Q. Is IIC a student club?
-
-No.
-
-It is a government-mandated institute body.
-
------------------------------------------------------
-
-Q. Does IIC replace E-Cell?
-
-No.
-
-IIC complements E-Cell and other campus organizations.
-
------------------------------------------------------
-
-Q. Why should students participate?
-
-Participation provides national exposure, mentorship, funding opportunities, patent support, and startup ecosystem access.
-
------------------------------------------------------
-
-Q. What projects does IIC currently build?
-
-Examples include
-
-- AI Innovation Chatbot
-- Innovation Magazine
-- MOOC Course
-- Innovation Dashboard
-- Innovation Calendar
-- CEO Interview Series
-
------------------------------------------------------
-
-Q. What is the overall goal?
-
-Document: A builder who has previously completed technical or non-technical projects.
-
---------------------------------------------------------------------
-
-3. Media and Public Relations
-
-Responsibilities
-
-- Posters
-- Social Media
-- Event Photography
-- Videography
-- Promotion
-- Brand Building
-- Podcast Production
-- YouTube Channel
-
-Ideal Head
-
-Someone with strong design and branding skills.
-
---------------------------------------------------------------------
-
-4. Reporting and Research
-
-Responsibilities
-
-- Quarterly MIC reporting
-- Documentation
-- Research
-- Knowledge management
-- Policy recommendations
-- Star rating tracking
-- SOP creation
-- Meeting minutes
-- Institutional memory
-
-Ideal Head
-
-Analytical and detail-oriented.
-
-Query: when did iic start operating in iit bombay
-
-Document: Unlike student clubs, the IIC is an official institute body that reports to the Ministry of Education through the MIC portal. At IIT Bombay, the IIC functions under the Desai Sethi School of Entrepreneurship (DSSE).
-
-Its mission is to strengthen the innovation ecosystem by helping students move from ideas to prototypes, intellectual property, incubation, commercialization, and startups.
-
-====================================================================
-WHY DOES IIC EXIST?
-====================================================================
-
-The objective of IIC is to ensure that innovation is not limited to isolated student clubs or research groups. Instead, it creates a structured innovation ecosystem within the institute.
-
-The council helps:
-
-Document: Participation in IIC helps students gain:
-
-- National recognition
-- Patent filing support
-- Innovation funding opportunities
-- Startup mentorship
-- Access to Smart India Hackathon
-- Access to YUKTI
-- Access to KAPILA
-- Innovation Ambassador programs
-
-====================================================================
-CURRENT STATUS OF IIC IIT BOMBAY
-====================================================================
-
-Current Rating:
-4-Star IIC
-
-The council significantly improved its rating in recent years and aims to achieve a 5-Star rating.
-
-====================================================================
-HOW IS IIC EVALUATED?
-====================================================================
-
-The annual score consists of five components.
-
-1. Calendar Activities (40%)
-
-Document: -----------------------------------------------------
-
-Q. What is the overall goal?
-
-The long-term objective is to strengthen IIT Bombay's innovation ecosystem and achieve a 5-Star IIC rating while increasing national visibility for student innovation.
-
-====================================================================
-END OF KNOWLEDGE BASE
-====================================================================
-
-Document: A builder who has previously completed technical or non-technical projects.
-
---------------------------------------------------------------------
-
-3. Media and Public Relations
-
-Responsibilities
-
-- Posters
-- Social Media
-- Event Photography
-- Videography
-- Promotion
-- Brand Building
-- Podcast Production
-- YouTube Channel
-
-Ideal Head
-
-Someone with strong design and branding skills.
-
---------------------------------------------------------------------
-
-4. Reporting and Research
-
-Responsibilities
-
-- Quarterly MIC reporting
-- Documentation
-- Research
-- Knowledge management
-- Policy recommendations
-- Star rating tracking
-- SOP creation
-- Meeting minutes
-- Institutional memory
-
-Ideal Head
-
-Analytical and detail-oriented.
+Document: ## The Marauder's Map
+A magical map of Hogwarts created by James Potter, Sirius Black, Remus Lupin, and Peter Pettigrew during their school years (nicknamed the Marauders), showing every room, secret passage, and the real-time location of every person in the castle. It only reveals itself when the activating phrase "I solemnly swear that I am up to no good" is spoken, and can be wiped blank with "Mischief managed."
 
 Query: who is elon musk
 
-Document: Typical collaborators include
+Document: ## Hermione Granger
+Hermione Granger is one of Harry's closest friends, sorted into Gryffindor. She is Muggle-born, meaning both her parents are non-magical (dentists, in her case). She is characterized by exceptional academic ability, a strong moral compass, and a dedication to research and rule-following that occasionally clashes with Harry and Ron's more impulsive approach. She founded S.P.E.W. (the Society for the Promotion of Elfish Welfare) to advocate for house-elf rights. She eventually marries Ron Weasley.
 
-- E-Cell
-- WNCC
-- SARC
-- SINE
-- GESH
-- Academic departments
+Document: ================================================================
 
-Ideal Head
+[SECTION: TIMELINE OF MAJOR EVENTS]
 
-Someone with strong networking, execution skills, and campus connections.
+Document: ## Horcruxes
 
---------------------------------------------------------------------
+Document: ================================================================
+END OF KNOWLEDGE BASE
 
-2. Projects and Initiatives
+Query: how did voldemort die
 
-Responsible for creating new innovation initiatives.
+Document: ## Lord Voldemort
+Born Tom Marvolo Riddle, Voldemort is the primary antagonist of the series. He is a half-blood, the son of a Muggle father and a witch mother descended from Salazar Slytherin. Obsessed with immortality and blood purity despite his own mixed heritage, he split his soul into seven fragments called Horcruxes to avoid death. His first attempt to kill infant Harry Potter backfired due to the protective magic of Lily Potter's sacrifice, reducing him to a weakened, non-corporeal state for over a decade. He is ultimately defeated in the Battle of Hogwarts when a Killing Curse he casts rebounds on him, since Harry had become the true master of the Elder Wand.
 
-Current initiatives include
+Document: 1992: Chamber of Secrets reopened; Basilisk attacks; Voldemort's diary Horcrux destroyed.
+1993: Sirius Black escapes Azkaban; revealed to be innocent, framed by Peter Pettigrew.
+1994: The Triwizard Tournament is held at Hogwarts; Cedric Diggory is killed; Voldemort is fully resurrected using Harry's blood.
+1995: Formation of Dumbledore's Army; Battle of the Department of Mysteries; Sirius Black dies.
+1996: Dumbledore is killed by Snape atop the Astronomy Tower.
+1997-1998: Harry, Ron, and Hermione hunt Horcruxes while Voldemort takes control of the Ministry.
+May 2, 1998: The Battle of Hogwarts; deaths of Fred Weasley, Remus Lupin, Nymphadora Tonks, Severus Snape, and others; Voldemort is finally and permanently defeated by Harry Potter.
 
-- AI Innovation Chatbot
-- Innovation Magazine
-- MOOC Course
-- Innovation Dashboard
-- BTP/MTP Database
+Document: to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix feathers came from the same phoenix, Fawkes.
 
-Other responsibilities
+Document: [SECTION: MAGICAL OBJECTS AND ARTIFACTS]
 
-- Faculty requested projects
-- YUKTI support
-- KAPILA support
-- Student interviews
-- Identifying innovation problems
-- Research commercialization
+## The Deathly Hallows
+Three legendary objects said to make their possessor the "Master of Death": the Elder Wand (the most powerful wand in existence, passed between owners through defeat in combat), the Resurrection Stone (able to summon the shades of the dead, set into a ring originally owned by the Peverell/Gaunt family), and the Cloak of Invisibility (a perfect, never-fading invisibility cloak passed down through the Potter family). Harry Potter ends up in possession of all three by the series' conclusion but chooses not to seek their combined power, instead simply defeating Voldemort and returning the Elder Wand's allegiance through his own death, ensuring no one else would misuse it.
 
-Ideal Head
+Query: how did sirius black die?
 
-A builder who has previously completed technical or non-technical projects.
+Document: 1992: Chamber of Secrets reopened; Basilisk attacks; Voldemort's diary Horcrux destroyed.
+1993: Sirius Black escapes Azkaban; revealed to be innocent, framed by Peter Pettigrew.
+1994: The Triwizard Tournament is held at Hogwarts; Cedric Diggory is killed; Voldemort is fully resurrected using Harry's blood.
+1995: Formation of Dumbledore's Army; Battle of the Department of Mysteries; Sirius Black dies.
+1996: Dumbledore is killed by Snape atop the Astronomy Tower.
+1997-1998: Harry, Ron, and Hermione hunt Horcruxes while Voldemort takes control of the Ministry.
+May 2, 1998: The Battle of Hogwarts; deaths of Fred Weasley, Remus Lupin, Nymphadora Tonks, Severus Snape, and others; Voldemort is finally and permanently defeated by Harry Potter.
 
---------------------------------------------------------------------
+Document: ## Severus Snape
+Severus Snape is the Potions Master (and later Defence Against the Dark Arts teacher, then Headmaster) at Hogwarts. Outwardly cold and biased against Harry throughout most of the series, Snape is revealed in the final book to have been working as a double agent for Dumbledore since shortly after Voldemort murdered Lily Potter, the woman Snape loved since childhood. His Patronus, like Lily's, takes the form of a doe, symbolizing his enduring love for her. Snape's loyalty and heroism are only fully understood by Harry after Snape's death via Voldemort's snake, Nagini.
 
-Document: Examples include
+Document: ## The Three Unforgivable Curses
+Use of any of these three curses on another human carries a life sentence in Azkaban:
+1. Avada Kedavra (the Killing Curse) � causes instant death, blocked only by the sacrificial protection Lily Potter left on Harry, and by nothing else known.
+2. Crucio (the Cruciatus Curse) � inflicts intense, excruciating pain on the victim.
+3. Imperio (the Imperius Curse) � grants the caster total control over the victim's actions.
 
-- AI Innovation Chatbot
-- Innovation Magazine
-- CEO Interview Series
-- Innovation Calendar
-- MOOC Course
-- BTP/MTP Database
+================================================================
 
-====================================================================
-FACULTY COUNCIL
-====================================================================
+[SECTION: MAGICAL CREATURES]
 
-The Faculty Council provides guidance and governance.
+Document: to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix feathers came from the same phoenix, Fawkes.
 
-Important members include
+Query: how did harry potter die?
 
-- President
-- Vice President
-- Faculty Convener
-- Dean Academic Programs
-- Dean Student Affairs
-- Dean Strategy
-- Deputy Director
-- E-Cell Faculty
-- Research Park Faculty
+Document: ## Harry Potter
 
-Students receive direct interaction with institute leadership through quarterly meetings.
+Document: 1992: Chamber of Secrets reopened; Basilisk attacks; Voldemort's diary Horcrux destroyed.
+1993: Sirius Black escapes Azkaban; revealed to be innocent, framed by Peter Pettigrew.
+1994: The Triwizard Tournament is held at Hogwarts; Cedric Diggory is killed; Voldemort is fully resurrected using Harry's blood.
+1995: Formation of Dumbledore's Army; Battle of the Department of Mysteries; Sirius Black dies.
+1996: Dumbledore is killed by Snape atop the Astronomy Tower.
+1997-1998: Harry, Ron, and Hermione hunt Horcruxes while Voldemort takes control of the Ministry.
+May 2, 1998: The Battle of Hogwarts; deaths of Fred Weasley, Remus Lupin, Nymphadora Tonks, Severus Snape, and others; Voldemort is finally and permanently defeated by Harry Potter.
 
-Document: Unlike student clubs, the IIC is an official institute body that reports to the Ministry of Education through the MIC portal. At IIT Bombay, the IIC functions under the Desai Sethi School of Entrepreneurship (DSSE).
+Document: ## Severus Snape
+Severus Snape is the Potions Master (and later Defence Against the Dark Arts teacher, then Headmaster) at Hogwarts. Outwardly cold and biased against Harry throughout most of the series, Snape is revealed in the final book to have been working as a double agent for Dumbledore since shortly after Voldemort murdered Lily Potter, the woman Snape loved since childhood. His Patronus, like Lily's, takes the form of a doe, symbolizing his enduring love for her. Snape's loyalty and heroism are only fully understood by Harry after Snape's death via Voldemort's snake, Nagini.
 
-Its mission is to strengthen the innovation ecosystem by helping students move from ideas to prototypes, intellectual property, incubation, commercialization, and startups.
-
-====================================================================
-WHY DOES IIC EXIST?
-====================================================================
-
-The objective of IIC is to ensure that innovation is not limited to isolated student clubs or research groups. Instead, it creates a structured innovation ecosystem within the institute.
-
-The council helps:
-
-Document: ====================================================================
-ORGANIZATIONAL STRUCTURE
-====================================================================
-
-The student council contains multiple tiers.
-
-Institute Secretary
-
-Responsible for overall coordination.
-
-Department Heads
-
-Lead individual functional departments.
-
-Coordinators
-
-Execute departmental work and manage projects.
-
-====================================================================
-FOUR DEPARTMENTS
-====================================================================
-
-1. Events and Collaborations
-
-Responsibilities include
-
-- Organizing workshops
-- Conducting field visits
-- Managing SIH
-- Celebration day events
-- Club collaborations
-- Event logistics
-- Permissions
-- Promotion
-- Documentation
-
-Query: how to become a convenor in iic
-
-Document: Unlike student clubs, the IIC is an official institute body that reports to the Ministry of Education through the MIC portal. At IIT Bombay, the IIC functions under the Desai Sethi School of Entrepreneurship (DSSE).
-
-Its mission is to strengthen the innovation ecosystem by helping students move from ideas to prototypes, intellectual property, incubation, commercialization, and startups.
-
-====================================================================
-WHY DOES IIC EXIST?
-====================================================================
-
-The objective of IIC is to ensure that innovation is not limited to isolated student clubs or research groups. Instead, it creates a structured innovation ecosystem within the institute.
-
-The council helps:
-
-Document: Students receive direct interaction with institute leadership through quarterly meetings.
-
-====================================================================
-QUARTERLY MEETINGS
-====================================================================
-
-Quarterly meetings discuss
-
-- New initiatives
-- Policy changes
-- Institute-wide proposals
-- Event reviews
-- Future directions
-
-Participants include
-
-- Deputy Directors
-- Deans
-- Faculty Council
-- Student Council
-
-====================================================================
-SMART INDIA HACKATHON
-====================================================================
-
-IIC coordinates
-
-- Registrations
-- Team formation
-- Mentorship
-- Submission support
-
-Document: ====================================================================
-ORGANIZATIONAL STRUCTURE
-====================================================================
-
-The student council contains multiple tiers.
-
-Institute Secretary
-
-Responsible for overall coordination.
-
-Department Heads
-
-Lead individual functional departments.
-
-Coordinators
-
-Execute departmental work and manage projects.
-
-====================================================================
-FOUR DEPARTMENTS
-====================================================================
-
-1. Events and Collaborations
-
-Responsibilities include
-
-- Organizing workshops
-- Conducting field visits
-- Managing SIH
-- Celebration day events
-- Club collaborations
-- Event logistics
-- Permissions
-- Promotion
-- Documentation
-
-Document: A builder who has previously completed technical or non-technical projects.
-
---------------------------------------------------------------------
-
-3. Media and Public Relations
-
-Responsibilities
-
-- Posters
-- Social Media
-- Event Photography
-- Videography
-- Promotion
-- Brand Building
-- Podcast Production
-- YouTube Channel
-
-Ideal Head
-
-Someone with strong design and branding skills.
-
---------------------------------------------------------------------
-
-4. Reporting and Research
-
-Responsibilities
-
-- Quarterly MIC reporting
-- Documentation
-- Research
-- Knowledge management
-- Policy recommendations
-- Star rating tracking
-- SOP creation
-- Meeting minutes
-- Institutional memory
-
-Ideal Head
-
-Analytical and detail-oriented.
-
-Query: how can he become a coordinator
-
-Document: Typical collaborators include
-
-- E-Cell
-- WNCC
-- SARC
-- SINE
-- GESH
-- Academic departments
-
-Ideal Head
-
-Someone with strong networking, execution skills, and campus connections.
-
---------------------------------------------------------------------
-
-2. Projects and Initiatives
-
-Responsible for creating new innovation initiatives.
-
-Current initiatives include
-
-- AI Innovation Chatbot
-- Innovation Magazine
-- MOOC Course
-- Innovation Dashboard
-- BTP/MTP Database
-
-Other responsibilities
-
-- Faculty requested projects
-- YUKTI support
-- KAPILA support
-- Student interviews
-- Identifying innovation problems
-- Research commercialization
-
-Ideal Head
-
-A builder who has previously completed technical or non-technical projects.
-
---------------------------------------------------------------------
-
-Document: A builder who has previously completed technical or non-technical projects.
-
---------------------------------------------------------------------
-
-3. Media and Public Relations
-
-Responsibilities
-
-- Posters
-- Social Media
-- Event Photography
-- Videography
-- Promotion
-- Brand Building
-- Podcast Production
-- YouTube Channel
-
-Ideal Head
-
-Someone with strong design and branding skills.
-
---------------------------------------------------------------------
-
-4. Reporting and Research
-
-Responsibilities
-
-- Quarterly MIC reporting
-- Documentation
-- Research
-- Knowledge management
-- Policy recommendations
-- Star rating tracking
-- SOP creation
-- Meeting minutes
-- Institutional memory
-
-Ideal Head
-
-Analytical and detail-oriented.
-
-Document: ====================================================================
-ORGANIZATIONAL STRUCTURE
-====================================================================
-
-The student council contains multiple tiers.
-
-Institute Secretary
-
-Responsible for overall coordination.
-
-Department Heads
-
-Lead individual functional departments.
-
-Coordinators
-
-Execute departmental work and manage projects.
-
-====================================================================
-FOUR DEPARTMENTS
-====================================================================
-
-1. Events and Collaborations
-
-Responsibilities include
-
-- Organizing workshops
-- Conducting field visits
-- Managing SIH
-- Celebration day events
-- Club collaborations
-- Event logistics
-- Permissions
-- Promotion
-- Documentation
-
-Document: Participation in IIC helps students gain:
-
-- National recognition
-- Patent filing support
-- Innovation funding opportunities
-- Startup mentorship
-- Access to Smart India Hackathon
-- Access to YUKTI
-- Access to KAPILA
-- Innovation Ambassador programs
-
-====================================================================
-CURRENT STATUS OF IIC IIT BOMBAY
-====================================================================
-
-Current Rating:
-4-Star IIC
-
-The council significantly improved its rating in recent years and aims to achieve a 5-Star rating.
-
-====================================================================
-HOW IS IIC EVALUATED?
-====================================================================
-
-The annual score consists of five components.
-
-1. Calendar Activities (40%)
+Document: A Horcrux is an object in which a dark wizard has hidden a fragment of their soul, achieved through the act of murder, as a means of attaining a twisted form of immortality � as long as one Horcrux survives, the wizard cannot truly die. Voldemort created seven: a diary (Tom Riddle's diary, destroyed by Harry with a Basilisk fang), a ring (the Gaunt family ring/Resurrection Stone, destroyed by Dumbledore), a locket (Salazar Slytherin's locket, destroyed by Ron with the Sword of Gryffindor), a cup (Helga Hufflepuff's cup, destroyed by Hermione with a Basilisk fang), a diadem (Ravenclaw's diadem, destroyed in Fiendfyre during the Battle of Hogwarts), his snake Nagini (destroyed by Neville Longbottom with the Sword of Gryffindor), and, unintentionally, Harry Potter himself, who carried a
 

@@ -1,0 +1,140 @@
+HARRY POTTER WIZARDING WORLD — KNOWLEDGE BASE
+Compiled reference document for RAG chatbot demo
+================================================================
+
+[SECTION: HOGWARTS HOUSES]
+
+## Gryffindor
+Gryffindor is one of the four houses of Hogwarts School of Witchcraft and Wizardry, founded by Godric Gryffindor. The house values courage, bravery, nerve, and chivalry above all else. Its house colors are scarlet and gold, and its animal symbol is the lion. The head of Gryffindor house for most of the main story is Professor Minerva McGonagall, who also teaches Transfiguration. The Gryffindor common room is located in a tower accessed through a portrait of the Fat Lady, who requires a password to grant entry. Notable Gryffindors include Harry Potter, Ron Weasley, Hermione Granger, Albus Dumbledore, and the Weasley family. The house ghost is Nearly Headless Nick, properly known as Sir Nicholas de Mimsy-Porpington.
+
+## Slytherin
+Slytherin was founded by Salazar Slytherin, who valued ambition, cunning, resourcefulness, and a certain disregard for rules when they stand in the way of achieving one's goals. The house colors are green and silver, and its symbol is the serpent. The head of Slytherin house is Professor Severus Snape for most of the series, later replaced by Horace Slughorn. The common room is in the dungeons, behind a concealed entrance that requires a password, and looks out into the Hogwarts lake through green-tinted windows. Slytherin has a reputation for producing dark wizards, including Lord Voldemort, though this is not universal — Slughorn and others show the house has more range than its stereotype suggests. The house ghost is the Bloody Baron.
+
+## Hufflepuff
+Founded by Helga Hufflepuff, this house prizes hard work, patience, loyalty, and fair play. Its colors are yellow and black, and its symbol is the badger. The head of house is Pomona Sprout, who also teaches Herbology. The Hufflepuff common room is located near the kitchens, behind a stack of barrels that must be tapped in a specific rhythm to open. Notable Hufflepuffs include Cedric Diggory, Nymphadora Tonks, and Newt Scamander (from the wider wizarding world). The house ghost is the Fat Friar.
+
+## Ravenclaw
+Founded by Rowena Ravenclaw, this house values intelligence, wit, learning, and wisdom. Its colors are blue and bronze, and its symbol is the eagle. The head of house is Filius Flitwick, who also teaches Charms. Entry to the Ravenclaw common room, located in a tower, requires answering a riddle posed by a knocker rather than a password — if answered incorrectly, one must wait for someone else to answer correctly. Notable Ravenclaws include Luna Lovegood, Cho Chang, and Gilderoy Lockhart (though he attended a different school). The house ghost is the Grey Lady, later revealed to be Helena Ravenclaw, daughter of Rowena Ravenclaw.
+
+## The Sorting Hat and Sorting Ceremony
+Incoming first-year students are sorted into houses by the Sorting Hat, a sentient magical artifact that once belonged to Godric Gryffindor. The Hat examines the qualities and preferences of each student and assigns them to the house it judges to be the best fit, sometimes taking student preference into account, as seen when Harry Potter asked not to be placed in Slytherin.
+
+================================================================
+
+[SECTION: MAIN CHARACTERS]
+
+## Harry Potter
+Harry Potter is the protagonist of the series, born on July 31st. He is the son of James and Lily Potter, both killed by Lord Voldemort when Harry was an infant. Voldemort's killing curse rebounded upon himself when he tried to kill baby Harry, leaving Harry with a lightning-bolt scar on his forehead and ending Voldemort's first reign of terror. Harry was raised by his aversive Muggle relatives, the Dursleys, in Privet Drive, unaware of his magical heritage until he received his Hogwarts letter at age eleven. He is sorted into Gryffindor, becomes the youngest Quidditch Seeker in a century, and ultimately proves to be the "Chosen One" prophesied to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix feathers came from the same phoenix, Fawkes.
+
+## Hermione Granger
+Hermione Granger is one of Harry's closest friends, sorted into Gryffindor. She is Muggle-born, meaning both her parents are non-magical (dentists, in her case). She is characterized by exceptional academic ability, a strong moral compass, and a dedication to research and rule-following that occasionally clashes with Harry and Ron's more impulsive approach. She founded S.P.E.W. (the Society for the Promotion of Elfish Welfare) to advocate for house-elf rights. She eventually marries Ron Weasley.
+
+## Ron Weasley
+Ron Weasley is Harry's other closest friend, the sixth of seven children in the Weasley family, a wizarding family of relatively modest means but great warmth. Sorted into Gryffindor, Ron struggles at times with feelings of being overshadowed by his more famous or accomplished siblings and friends, but proves consistently loyal and is skilled at wizard chess, which factors into a key challenge in the first book. He eventually marries Hermione Granger and works at the Ministry of Magic and later at his brother George's joke shop.
+
+## Albus Dumbledore
+Albus Dumbledore is the Headmaster of Hogwarts for most of the series, widely considered one of the greatest wizards of the age. He defeated the dark wizard Gellert Grindelwald in a legendary duel in 1945 and is the only wizard Voldemort ever feared. Dumbledore is the original owner of the Elder Wand, one of the three Deathly Hallows. He mentors and guides Harry throughout the series, though he withholds important information at times, believing certain truths must be revealed only when Harry is ready. He is killed by Severus Snape atop the Astronomy Tower in the sixth book, an act later revealed to have been arranged in advance between the two of them.
+
+## Severus Snape
+Severus Snape is the Potions Master (and later Defence Against the Dark Arts teacher, then Headmaster) at Hogwarts. Outwardly cold and biased against Harry throughout most of the series, Snape is revealed in the final book to have been working as a double agent for Dumbledore since shortly after Voldemort murdered Lily Potter, the woman Snape loved since childhood. His Patronus, like Lily's, takes the form of a doe, symbolizing his enduring love for her. Snape's loyalty and heroism are only fully understood by Harry after Snape's death via Voldemort's snake, Nagini.
+
+## Lord Voldemort
+Born Tom Marvolo Riddle, Voldemort is the primary antagonist of the series. He is a half-blood, the son of a Muggle father and a witch mother descended from Salazar Slytherin. Obsessed with immortality and blood purity despite his own mixed heritage, he split his soul into seven fragments called Horcruxes to avoid death. His first attempt to kill infant Harry Potter backfired due to the protective magic of Lily Potter's sacrifice, reducing him to a weakened, non-corporeal state for over a decade. He is ultimately defeated in the Battle of Hogwarts when a Killing Curse he casts rebounds on him, since Harry had become the true master of the Elder Wand.
+
+## Rubeus Hagrid
+Hagrid is the Keeper of Keys and Grounds at Hogwarts and, later, the Care of Magical Creatures professor. A half-giant, he was expelled from Hogwarts as a student after being wrongly blamed for opening the Chamber of Secrets, though Dumbledore retained him as a staff member. Hagrid introduces Harry to the wizarding world and maintains a great fondness for dangerous magical creatures, often to comedic or alarming effect.
+
+================================================================
+
+[SECTION: MAGICAL OBJECTS AND ARTIFACTS]
+
+## The Deathly Hallows
+Three legendary objects said to make their possessor the "Master of Death": the Elder Wand (the most powerful wand in existence, passed between owners through defeat in combat), the Resurrection Stone (able to summon the shades of the dead, set into a ring originally owned by the Peverell/Gaunt family), and the Cloak of Invisibility (a perfect, never-fading invisibility cloak passed down through the Potter family). Harry Potter ends up in possession of all three by the series' conclusion but chooses not to seek their combined power, instead simply defeating Voldemort and returning the Elder Wand's allegiance through his own death, ensuring no one else would misuse it.
+
+## Horcruxes
+A Horcrux is an object in which a dark wizard has hidden a fragment of their soul, achieved through the act of murder, as a means of attaining a twisted form of immortality — as long as one Horcrux survives, the wizard cannot truly die. Voldemort created seven: a diary (Tom Riddle's diary, destroyed by Harry with a Basilisk fang), a ring (the Gaunt family ring/Resurrection Stone, destroyed by Dumbledore), a locket (Salazar Slytherin's locket, destroyed by Ron with the Sword of Gryffindor), a cup (Helga Hufflepuff's cup, destroyed by Hermione with a Basilisk fang), a diadem (Ravenclaw's diadem, destroyed in Fiendfyre during the Battle of Hogwarts), his snake Nagini (destroyed by Neville Longbottom with the Sword of Gryffindor), and, unintentionally, Harry Potter himself, who carried a fragment of Voldemort's soul since infancy.
+
+## The Marauder's Map
+A magical map of Hogwarts created by James Potter, Sirius Black, Remus Lupin, and Peter Pettigrew during their school years (nicknamed the Marauders), showing every room, secret passage, and the real-time location of every person in the castle. It only reveals itself when the activating phrase "I solemnly swear that I am up to no good" is spoken, and can be wiped blank with "Mischief managed."
+
+## The Sword of Gryffindor
+A goblin-made sword belonging to Godric Gryffindor, kept in the Headmaster's office at Hogwarts, capable of imbibing properties that make it stronger — famously used to destroy Horcruxes because it can absorb only that which makes it stronger, such as Basilisk venom. It presents itself to true Gryffindors in times of need, as seen when it appears to Harry in the Chamber of Secrets via the Sorting Hat.
+
+================================================================
+
+[SECTION: SPELLS AND MAGIC]
+
+## Common Charms and Spells
+- Expelliarmus: A disarming charm that knocks an opponent's wand from their hand; closely associated with Harry Potter, who uses it as his signature spell rather than more lethal curses.
+- Expecto Patronum: Conjures a Patronus, a guardian spirit unique to each caster shaped by their happiest memories, used to repel Dementors.
+- Wingardium Leviosa: A levitation charm, notably taught in Harry's first Charms class, with Hermione's correction of Ron's pronunciation ("Wingardium leviosa," not "leviosaa") becoming a memorable early moment in their friendship.
+- Alohomora: An unlocking charm used to open locked doors.
+- Lumos / Nox: Illuminates or extinguishes light from the tip of a wand.
+- Accio: A summoning charm that calls an object to the caster.
+- Obliviate: A memory-modifying charm that can erase or alter someone's memories.
+
+## The Three Unforgivable Curses
+Use of any of these three curses on another human carries a life sentence in Azkaban:
+1. Avada Kedavra (the Killing Curse) — causes instant death, blocked only by the sacrificial protection Lily Potter left on Harry, and by nothing else known.
+2. Crucio (the Cruciatus Curse) — inflicts intense, excruciating pain on the victim.
+3. Imperio (the Imperius Curse) — grants the caster total control over the victim's actions.
+
+================================================================
+
+[SECTION: MAGICAL CREATURES]
+
+## Dementors
+Dementors are soul-sucking dark creatures that guard the wizard prison Azkaban. They feed on positive human emotion and can inflict a fate worse than death by performing the "Dementor's Kiss," which sucks out a person's soul. They are repelled only by the Patronus Charm.
+
+## Basilisk
+An enormous serpent, the "King of Serpents," capable of killing instantly with direct eye contact and petrifying with an indirect glance (such as through a reflection). The Chamber of Secrets housed a Basilisk controlled by Salazar Slytherin's heir; it was ultimately killed by Harry Potter with the Sword of Gryffindor in the second book.
+
+## House-elves
+House-elves are a servant species bound to serve wizarding families or institutions, generally unable to be freed except by their master presenting them with clothing. Dobby is a notable house-elf, initially enslaved to the Malfoy family, freed by Harry via a trick involving a sock, and who later dies protecting Harry, Ron, and Hermione.
+
+## Hippogriffs
+Proud, sensitive magical creatures with the front half of an eagle and the hind half of a horse, requiring a respectful bow before approach. Buckbeak, a hippogriff owned by Hagrid, is wrongly sentenced to execution after injuring Draco Malfoy (who provoked it by ignoring instructions) but is rescued by Harry and Hermione using a Time-Turner.
+
+================================================================
+
+[SECTION: KEY LOCATIONS]
+
+## Hogwarts School of Witchcraft and Wizardry
+A magical boarding school in Scotland for students aged 11 to 17, hidden from Muggles by enchantments including the Fidelius Charm-like protections. The castle contains moving staircases, portraits that can move and communicate between paintings, and a Great Hall where meals and major events take place. It is protected by ancient magic and is generally considered one of the most secure locations in the wizarding world.
+
+## Diagon Alley
+A hidden wizarding shopping street in London, accessible through a magical entrance behind the Leaky Cauldron pub. It contains Gringotts Wizarding Bank, Ollivanders wand shop, Flourish and Blotts bookshop, and Weasleys' Wizard Wheezes joke shop, among others.
+
+## The Ministry of Magic
+The governing body of the British wizarding world, located underground in London, responsible for enforcing the Statute of Secrecy that keeps the wizarding world hidden from Muggles, and for regulating all aspects of magical life.
+
+## Azkaban
+The wizarding prison, located on an isolated island in the North Sea, guarded historically by Dementors before their removal from that duty following the Second Wizarding War.
+
+================================================================
+
+[SECTION: TIMELINE OF MAJOR EVENTS]
+
+1926-1945 (approx.): Rise and fall of Gellert Grindelwald, defeated by Dumbledore in 1945.
+1926: Newt Scamander's era of magizoology work (Fantastic Beasts era).
+1960s-70s: Tom Riddle's schooling at Hogwarts and gradual transformation into Lord Voldemort; creation of most Horcruxes.
+1970s: First Wizarding War begins as Voldemort gains followers (Death Eaters).
+October 31, 1981: Voldemort kills James and Lily Potter; his Killing Curse rebounds off baby Harry, ending the First Wizarding War and reducing Voldemort to a weakened spirit form.
+1991: Harry begins his first year at Hogwarts; Philosopher's/Sorcerer's Stone plot.
+1992: Chamber of Secrets reopened; Basilisk attacks; Voldemort's diary Horcrux destroyed.
+1993: Sirius Black escapes Azkaban; revealed to be innocent, framed by Peter Pettigrew.
+1994: The Triwizard Tournament is held at Hogwarts; Cedric Diggory is killed; Voldemort is fully resurrected using Harry's blood.
+1995: Formation of Dumbledore's Army; Battle of the Department of Mysteries; Sirius Black dies.
+1996: Dumbledore is killed by Snape atop the Astronomy Tower.
+1997-1998: Harry, Ron, and Hermione hunt Horcruxes while Voldemort takes control of the Ministry.
+May 2, 1998: The Battle of Hogwarts; deaths of Fred Weasley, Remus Lupin, Nymphadora Tonks, Severus Snape, and others; Voldemort is finally and permanently defeated by Harry Potter.
+2017 (epilogue, "Nineteen years later"): Harry, Ron, Hermione, and their peers see their own children off to Hogwarts for the first time.
+
+================================================================
+
+[SECTION: QUIDDITCH]
+
+Quidditch is the primary wizarding sport, played on broomsticks with two teams of seven players each. Positions include three Chasers (who score goals worth 10 points each using the Quaffle), two Beaters (who use bats to hit Bludgers at opposing players), one Keeper (who guards the goal hoops), and one Seeker (who chases the Golden Snitch, a small winged ball worth 150 points, and whose capture ends the game). Harry Potter plays Seeker for Gryffindor, becoming the youngest player in a century to make a house team. The Triwizard Tournament and the Quidditch World Cup are notable large-scale magical sporting/competitive events referenced across the series.
+
+================================================================
+END OF KNOWLEDGE BASE
