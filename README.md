@@ -8,7 +8,6 @@ A Retrieval-Augmented Generation (RAG) chatbot built using **LangChain**, **Chro
 A simple website is also coded to display the prototype in GUI mode, instead of cli mode.
 
 
-
 ## Tech Stack
 
 - **Language:** Python 3.14
@@ -19,6 +18,7 @@ A simple website is also coded to display the prototype in GUI mode, instead of 
 - **Document Processing:** RecursiveCharacterTextSplitter
 - **Configuration:** python-dotenv
 - **Package Manager:** uv
+- **local website(GUI Mode):** gradio
 
 ---
 
