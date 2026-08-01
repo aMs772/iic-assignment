@@ -297,3 +297,66 @@ Document: 1992: Chamber of Secrets reopened; Basilisk attacks; Voldemort's diary
 1997-1998: Harry, Ron, and Hermione hunt Horcruxes while Voldemort takes control of the Ministry.
 May 2, 1998: The Battle of Hogwarts; deaths of Fred Weasley, Remus Lupin, Nymphadora Tonks, Severus Snape, and others; Voldemort is finally and permanently defeated by Harry Potter.
 
+Query: who is voldemort
+
+Document: ## Lord Voldemort
+Born Tom Marvolo Riddle, Voldemort is the primary antagonist of the series. He is a half-blood, the son of a Muggle father and a witch mother descended from Salazar Slytherin. Obsessed with immortality and blood purity despite his own mixed heritage, he split his soul into seven fragments called Horcruxes to avoid death. His first attempt to kill infant Harry Potter backfired due to the protective magic of Lily Potter's sacrifice, reducing him to a weakened, non-corporeal state for over a decade. He is ultimately defeated in the Battle of Hogwarts when a Killing Curse he casts rebounds on him, since Harry had become the true master of the Elder Wand.
+
+Document: Hogwarts), his snake Nagini (destroyed by Neville Longbottom with the Sword of Gryffindor), and, unintentionally, Harry Potter himself, who carried a fragment of Voldemort's soul since infancy.
+
+Document: ## Harry Potter
+
+Document: to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix feathers came from the same phoenix, Fawkes.
+
+Query: how did harry otter die
+
+Document: ## Harry Potter
+
+Document: 1992: Chamber of Secrets reopened; Basilisk attacks; Voldemort's diary Horcrux destroyed.
+1993: Sirius Black escapes Azkaban; revealed to be innocent, framed by Peter Pettigrew.
+1994: The Triwizard Tournament is held at Hogwarts; Cedric Diggory is killed; Voldemort is fully resurrected using Harry's blood.
+1995: Formation of Dumbledore's Army; Battle of the Department of Mysteries; Sirius Black dies.
+1996: Dumbledore is killed by Snape atop the Astronomy Tower.
+1997-1998: Harry, Ron, and Hermione hunt Horcruxes while Voldemort takes control of the Ministry.
+May 2, 1998: The Battle of Hogwarts; deaths of Fred Weasley, Remus Lupin, Nymphadora Tonks, Severus Snape, and others; Voldemort is finally and permanently defeated by Harry Potter.
+
+Document: Hogwarts), his snake Nagini (destroyed by Neville Longbottom with the Sword of Gryffindor), and, unintentionally, Harry Potter himself, who carried a fragment of Voldemort's soul since infancy.
+
+Document: ## The Three Unforgivable Curses
+Use of any of these three curses on another human carries a life sentence in Azkaban:
+1. Avada Kedavra (the Killing Curse) — causes instant death, blocked only by the sacrificial protection Lily Potter left on Harry, and by nothing else known.
+2. Crucio (the Cruciatus Curse) — inflicts intense, excruciating pain on the victim.
+3. Imperio (the Imperius Curse) — grants the caster total control over the victim's actions.
+
+================================================================
+
+[SECTION: MAGICAL CREATURES]
+
+Query: how did harry potter die?
+
+Document: 1992: Chamber of Secrets reopened; Basilisk attacks; Voldemort's diary Horcrux destroyed.
+1993: Sirius Black escapes Azkaban; revealed to be innocent, framed by Peter Pettigrew.
+1994: The Triwizard Tournament is held at Hogwarts; Cedric Diggory is killed; Voldemort is fully resurrected using Harry's blood.
+1995: Formation of Dumbledore's Army; Battle of the Department of Mysteries; Sirius Black dies.
+1996: Dumbledore is killed by Snape atop the Astronomy Tower.
+1997-1998: Harry, Ron, and Hermione hunt Horcruxes while Voldemort takes control of the Ministry.
+May 2, 1998: The Battle of Hogwarts; deaths of Fred Weasley, Remus Lupin, Nymphadora Tonks, Severus Snape, and others; Voldemort is finally and permanently defeated by Harry Potter.
+
+Document: ## Lord Voldemort
+Born Tom Marvolo Riddle, Voldemort is the primary antagonist of the series. He is a half-blood, the son of a Muggle father and a witch mother descended from Salazar Slytherin. Obsessed with immortality and blood purity despite his own mixed heritage, he split his soul into seven fragments called Horcruxes to avoid death. His first attempt to kill infant Harry Potter backfired due to the protective magic of Lily Potter's sacrifice, reducing him to a weakened, non-corporeal state for over a decade. He is ultimately defeated in the Battle of Hogwarts when a Killing Curse he casts rebounds on him, since Harry had become the true master of the Elder Wand.
+
+Document: Hogwarts), his snake Nagini (destroyed by Neville Longbottom with the Sword of Gryffindor), and, unintentionally, Harry Potter himself, who carried a fragment of Voldemort's soul since infancy.
+
+Document: ## Harry Potter
+
+Query: who is hermione
+
+Document: ## Hermione Granger
+Hermione Granger is one of Harry's closest friends, sorted into Gryffindor. She is Muggle-born, meaning both her parents are non-magical (dentists, in her case). She is characterized by exceptional academic ability, a strong moral compass, and a dedication to research and rule-following that occasionally clashes with Harry and Ron's more impulsive approach. She founded S.P.E.W. (the Society for the Promotion of Elfish Welfare) to advocate for house-elf rights. She eventually marries Ron Weasley.
+
+Document: ## Horcruxes
+
+Document: 2017 (epilogue, "Nineteen years later"): Harry, Ron, Hermione, and their peers see their own children off to Hogwarts for the first time.
+
+Document: to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix feathers came from the same phoenix, Fawkes.
+

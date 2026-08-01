@@ -8,6 +8,7 @@ from langchain_core.runnables import RunnableLambda, RunnablePassthrough
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 # from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_community.document_loaders import PyPDFLoader
 
 from dotenv import load_dotenv
 
@@ -31,7 +32,7 @@ splitter = RecursiveCharacterTextSplitter(
     chunk_overlap = 150,
 )
 
-def get_documment(file_path: str) -> Document:
+def get_document_from_txt(file_path: str) -> Document:
     """
     Get a document from a file path.
     Args:file_path (str): The path to the file.
@@ -48,6 +49,21 @@ def get_documment(file_path: str) -> Document:
             }
         )
     return doc
+
+def get_document_from_pdf(file_path: str) -> Document:
+    """
+    Get a document from a PDF file path.
+    Args:file_path (str): The path to the PDF file.
+    Returns:Document: The document object.
+    """
+
+    loader = PyPDFLoader(file_path)
+    doc = loader.load()[0]
+    return doc
+
+# comment line 65 and uncomment line 66 if you want to use PDF files instead of TXT files
+get_document = get_document_from_txt
+# get_document = get_document_from_pdf
 
 def get_chunks(doc: Document) -> list[Document]:
     """
@@ -84,7 +100,7 @@ def rag_init(file_path: str):
     Returns:VectorStore: The vector store object.
     """
     try:
-        doc = get_documment(file_path)
+        doc = get_document(file_path)
     except Exception as e:
         print(f"Error reading document: {e}")
         sys.exit(1)
