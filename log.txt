@@ -215,3 +215,64 @@ Document: - Lumos / Nox: Illuminates or extinguishes light from the tip of a wan
 - Accio: A summoning charm that calls an object to the caster.
 - Obliviate: A memory-modifying charm that can erase or alter someone's memories.
 
+Query: who is harry potter
+
+Document: Harry Potter is the protagonist of the series, born on July 31st. He is the son of James and Lily Potter, both killed by Lord Voldemort when Harry was an infant. Voldemort's killing curse rebounded upon himself when he tried to kill baby Harry, leaving Harry with a lightning-bolt scar on his forehead and ending Voldemort's first reign of terror. Harry was raised by his aversive Muggle relatives, the Dursleys, in Privet Drive, unaware of his magical heritage until he received his Hogwarts letter at age eleven. He is sorted into Gryffindor, becomes the youngest Quidditch Seeker in a century, and ultimately proves to be the "Chosen One" prophesied to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix
+
+Document: ## Harry Potter
+
+Document: ================================================================
+
+[SECTION: QUIDDITCH]
+
+Quidditch is the primary wizarding sport, played on broomsticks with two teams of seven players each. Positions include three Chasers (who score goals worth 10 points each using the Quaffle), two Beaters (who use bats to hit Bludgers at opposing players), one Keeper (who guards the goal hoops), and one Seeker (who chases the Golden Snitch, a small winged ball worth 150 points, and whose capture ends the game). Harry Potter plays Seeker for Gryffindor, becoming the youngest player in a century to make a house team. The Triwizard Tournament and the Quidditch World Cup are notable large-scale magical sporting/competitive events referenced across the series.
+
+Document: ## The Marauder's Map
+A magical map of Hogwarts created by James Potter, Sirius Black, Remus Lupin, and Peter Pettigrew during their school years (nicknamed the Marauders), showing every room, secret passage, and the real-time location of every person in the castle. It only reveals itself when the activating phrase "I solemnly swear that I am up to no good" is spoken, and can be wiped blank with "Mischief managed."
+
+Query: hello
+
+Document: ## Harry Potter
+
+Document: ================================================================
+END OF KNOWLEDGE BASE
+
+Document: ## Hufflepuff
+Founded by Helga Hufflepuff, this house prizes hard work, patience, loyalty, and fair play. Its colors are yellow and black, and its symbol is the badger. The head of house is Pomona Sprout, who also teaches Herbology. The Hufflepuff common room is located near the kitchens, behind a stack of barrels that must be tapped in a specific rhythm to open. Notable Hufflepuffs include Cedric Diggory, Nymphadora Tonks, and Newt Scamander (from the wider wizarding world). The house ghost is the Fat Friar.
+
+Document: - Lumos / Nox: Illuminates or extinguishes light from the tip of a wand.
+- Accio: A summoning charm that calls an object to the caster.
+- Obliviate: A memory-modifying charm that can erase or alter someone's memories.
+
+Query: who is harry potter
+
+Document: Harry Potter is the protagonist of the series, born on July 31st. He is the son of James and Lily Potter, both killed by Lord Voldemort when Harry was an infant. Voldemort's killing curse rebounded upon himself when he tried to kill baby Harry, leaving Harry with a lightning-bolt scar on his forehead and ending Voldemort's first reign of terror. Harry was raised by his aversive Muggle relatives, the Dursleys, in Privet Drive, unaware of his magical heritage until he received his Hogwarts letter at age eleven. He is sorted into Gryffindor, becomes the youngest Quidditch Seeker in a century, and ultimately proves to be the "Chosen One" prophesied to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix
+
+Document: ## Harry Potter
+
+Document: ================================================================
+
+[SECTION: QUIDDITCH]
+
+Quidditch is the primary wizarding sport, played on broomsticks with two teams of seven players each. Positions include three Chasers (who score goals worth 10 points each using the Quaffle), two Beaters (who use bats to hit Bludgers at opposing players), one Keeper (who guards the goal hoops), and one Seeker (who chases the Golden Snitch, a small winged ball worth 150 points, and whose capture ends the game). Harry Potter plays Seeker for Gryffindor, becoming the youngest player in a century to make a house team. The Triwizard Tournament and the Quidditch World Cup are notable large-scale magical sporting/competitive events referenced across the series.
+
+Document: ## The Marauder's Map
+A magical map of Hogwarts created by James Potter, Sirius Black, Remus Lupin, and Peter Pettigrew during their school years (nicknamed the Marauders), showing every room, secret passage, and the real-time location of every person in the castle. It only reveals itself when the activating phrase "I solemnly swear that I am up to no good" is spoken, and can be wiped blank with "Mischief managed."
+
+Query: why did harry potter die?
+
+Document: 1992: Chamber of Secrets reopened; Basilisk attacks; Voldemort's diary Horcrux destroyed.
+1993: Sirius Black escapes Azkaban; revealed to be innocent, framed by Peter Pettigrew.
+1994: The Triwizard Tournament is held at Hogwarts; Cedric Diggory is killed; Voldemort is fully resurrected using Harry's blood.
+1995: Formation of Dumbledore's Army; Battle of the Department of Mysteries; Sirius Black dies.
+1996: Dumbledore is killed by Snape atop the Astronomy Tower.
+1997-1998: Harry, Ron, and Hermione hunt Horcruxes while Voldemort takes control of the Ministry.
+May 2, 1998: The Battle of Hogwarts; deaths of Fred Weasley, Remus Lupin, Nymphadora Tonks, Severus Snape, and others; Voldemort is finally and permanently defeated by Harry Potter.
+
+Document: ## Harry Potter
+
+Document: ## Severus Snape
+Severus Snape is the Potions Master (and later Defence Against the Dark Arts teacher, then Headmaster) at Hogwarts. Outwardly cold and biased against Harry throughout most of the series, Snape is revealed in the final book to have been working as a double agent for Dumbledore since shortly after Voldemort murdered Lily Potter, the woman Snape loved since childhood. His Patronus, like Lily's, takes the form of a doe, symbolizing his enduring love for her. Snape's loyalty and heroism are only fully understood by Harry after Snape's death via Voldemort's snake, Nagini.
+
+Document: to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix feathers came from the same phoenix, Fawkes.
+

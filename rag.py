@@ -4,7 +4,9 @@ from langchain_core.documents import Document
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnableLambda, RunnablePassthrough
+# comment line 7 and uncomment line 8 if you want to use OpenAI instead of Google Generative AI
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+# from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 from dotenv import load_dotenv
@@ -16,12 +18,18 @@ print("imported all libraries successfully")
 
 # initialize 
 load_dotenv()
+
+# uncomment lines 23, 24 and uncomment line 26, 27 if you want to use OpenAI instead of Google Generative AI
 llm = ChatOpenAI(model_name="gpt-4o-mini", temperature=0.2)
+embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
+
+# llm = ChatGoogleGenerativeAI(model="gemini-3.6-flash", temperature=0.2)
+# embeddings = GoogleGenerativeAIEmbeddings(model="gemini-embedding-2")
+
 splitter = RecursiveCharacterTextSplitter(
     chunk_size = 800,
     chunk_overlap = 150,
 )
-embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
 
 def get_documment(file_path: str) -> Document:
     """
