@@ -86,3 +86,132 @@ Severus Snape is the Potions Master (and later Defence Against the Dark Arts tea
 
 Document: A Horcrux is an object in which a dark wizard has hidden a fragment of their soul, achieved through the act of murder, as a means of attaining a twisted form of immortality ï¿½ as long as one Horcrux survives, the wizard cannot truly die. Voldemort created seven: a diary (Tom Riddle's diary, destroyed by Harry with a Basilisk fang), a ring (the Gaunt family ring/Resurrection Stone, destroyed by Dumbledore), a locket (Salazar Slytherin's locket, destroyed by Ron with the Sword of Gryffindor), a cup (Helga Hufflepuff's cup, destroyed by Hermione with a Basilisk fang), a diadem (Ravenclaw's diadem, destroyed in Fiendfyre during the Battle of Hogwarts), his snake Nagini (destroyed by Neville Longbottom with the Sword of Gryffindor), and, unintentionally, Harry Potter himself, who carried a
 
+Query: who is harry potter
+
+Document: ## Harry Potter
+
+Document: Harry Potter is the protagonist of the series, born on July 31st. He is the son of James and Lily Potter, both killed by Lord Voldemort when Harry was an infant. Voldemort's killing curse rebounded upon himself when he tried to kill baby Harry, leaving Harry with a lightning-bolt scar on his forehead and ending Voldemort's first reign of terror. Harry was raised by his aversive Muggle relatives, the Dursleys, in Privet Drive, unaware of his magical heritage until he received his Hogwarts letter at age eleven. He is sorted into Gryffindor, becomes the youngest Quidditch Seeker in a century, and ultimately proves to be the "Chosen One" prophesied to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix
+
+Document: ## Hermione Granger
+Hermione Granger is one of Harry's closest friends, sorted into Gryffindor. She is Muggle-born, meaning both her parents are non-magical (dentists, in her case). She is characterized by exceptional academic ability, a strong moral compass, and a dedication to research and rule-following that occasionally clashes with Harry and Ron's more impulsive approach. She founded S.P.E.W. (the Society for the Promotion of Elfish Welfare) to advocate for house-elf rights. She eventually marries Ron Weasley.
+
+Document: ## The Marauder's Map
+A magical map of Hogwarts created by James Potter, Sirius Black, Remus Lupin, and Peter Pettigrew during their school years (nicknamed the Marauders), showing every room, secret passage, and the real-time location of every person in the castle. It only reveals itself when the activating phrase "I solemnly swear that I am up to no good" is spoken, and can be wiped blank with "Mischief managed."
+
+Query: who is elon musk
+
+Document: ## Hermione Granger
+Hermione Granger is one of Harry's closest friends, sorted into Gryffindor. She is Muggle-born, meaning both her parents are non-magical (dentists, in her case). She is characterized by exceptional academic ability, a strong moral compass, and a dedication to research and rule-following that occasionally clashes with Harry and Ron's more impulsive approach. She founded S.P.E.W. (the Society for the Promotion of Elfish Welfare) to advocate for house-elf rights. She eventually marries Ron Weasley.
+
+Document: ================================================================
+
+[SECTION: TIMELINE OF MAJOR EVENTS]
+
+Document: ## Horcruxes
+
+Document: ================================================================
+END OF KNOWLEDGE BASE
+
+Query: hi rohan
+
+Document: ================================================================
+END OF KNOWLEDGE BASE
+
+Document: HARRY POTTER WIZARDING WORLD — KNOWLEDGE BASE
+Compiled reference document for RAG chatbot demo
+================================================================
+
+[SECTION: HOGWARTS HOUSES]
+
+Document: ## Ron Weasley
+Ron Weasley is Harry's other closest friend, the sixth of seven children in the Weasley family, a wizarding family of relatively modest means but great warmth. Sorted into Gryffindor, Ron struggles at times with feelings of being overshadowed by his more famous or accomplished siblings and friends, but proves consistently loyal and is skilled at wizard chess, which factors into a key challenge in the first book. He eventually marries Hermione Granger and works at the Ministry of Magic and later at his brother George's joke shop.
+
+Document: ## Horcruxes
+
+Query: who is harry potter
+
+Document: ## Harry Potter
+
+Document: Harry Potter is the protagonist of the series, born on July 31st. He is the son of James and Lily Potter, both killed by Lord Voldemort when Harry was an infant. Voldemort's killing curse rebounded upon himself when he tried to kill baby Harry, leaving Harry with a lightning-bolt scar on his forehead and ending Voldemort's first reign of terror. Harry was raised by his aversive Muggle relatives, the Dursleys, in Privet Drive, unaware of his magical heritage until he received his Hogwarts letter at age eleven. He is sorted into Gryffindor, becomes the youngest Quidditch Seeker in a century, and ultimately proves to be the "Chosen One" prophesied to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix
+
+Document: ## Hermione Granger
+Hermione Granger is one of Harry's closest friends, sorted into Gryffindor. She is Muggle-born, meaning both her parents are non-magical (dentists, in her case). She is characterized by exceptional academic ability, a strong moral compass, and a dedication to research and rule-following that occasionally clashes with Harry and Ron's more impulsive approach. She founded S.P.E.W. (the Society for the Promotion of Elfish Welfare) to advocate for house-elf rights. She eventually marries Ron Weasley.
+
+Document: ## The Marauder's Map
+A magical map of Hogwarts created by James Potter, Sirius Black, Remus Lupin, and Peter Pettigrew during their school years (nicknamed the Marauders), showing every room, secret passage, and the real-time location of every person in the castle. It only reveals itself when the activating phrase "I solemnly swear that I am up to no good" is spoken, and can be wiped blank with "Mischief managed."
+
+Query: hi
+
+Document: ================================================================
+END OF KNOWLEDGE BASE
+
+Document: ================================================================
+
+[SECTION: TIMELINE OF MAJOR EVENTS]
+
+Document: ## Horcruxes
+
+Document: ## Hufflepuff
+Founded by Helga Hufflepuff, this house prizes hard work, patience, loyalty, and fair play. Its colors are yellow and black, and its symbol is the badger. The head of house is Pomona Sprout, who also teaches Herbology. The Hufflepuff common room is located near the kitchens, behind a stack of barrels that must be tapped in a specific rhythm to open. Notable Hufflepuffs include Cedric Diggory, Nymphadora Tonks, and Newt Scamander (from the wider wizarding world). The house ghost is the Fat Friar.
+
+Query: who is harry potter
+
+Document: ## Harry Potter
+
+Document: Harry Potter is the protagonist of the series, born on July 31st. He is the son of James and Lily Potter, both killed by Lord Voldemort when Harry was an infant. Voldemort's killing curse rebounded upon himself when he tried to kill baby Harry, leaving Harry with a lightning-bolt scar on his forehead and ending Voldemort's first reign of terror. Harry was raised by his aversive Muggle relatives, the Dursleys, in Privet Drive, unaware of his magical heritage until he received his Hogwarts letter at age eleven. He is sorted into Gryffindor, becomes the youngest Quidditch Seeker in a century, and ultimately proves to be the "Chosen One" prophesied to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix
+
+Document: ## Hermione Granger
+Hermione Granger is one of Harry's closest friends, sorted into Gryffindor. She is Muggle-born, meaning both her parents are non-magical (dentists, in her case). She is characterized by exceptional academic ability, a strong moral compass, and a dedication to research and rule-following that occasionally clashes with Harry and Ron's more impulsive approach. She founded S.P.E.W. (the Society for the Promotion of Elfish Welfare) to advocate for house-elf rights. She eventually marries Ron Weasley.
+
+Document: ## The Marauder's Map
+A magical map of Hogwarts created by James Potter, Sirius Black, Remus Lupin, and Peter Pettigrew during their school years (nicknamed the Marauders), showing every room, secret passage, and the real-time location of every person in the castle. It only reveals itself when the activating phrase "I solemnly swear that I am up to no good" is spoken, and can be wiped blank with "Mischief managed."
+
+Query: who is voldemort
+
+Document: ## Lord Voldemort
+Born Tom Marvolo Riddle, Voldemort is the primary antagonist of the series. He is a half-blood, the son of a Muggle father and a witch mother descended from Salazar Slytherin. Obsessed with immortality and blood purity despite his own mixed heritage, he split his soul into seven fragments called Horcruxes to avoid death. His first attempt to kill infant Harry Potter backfired due to the protective magic of Lily Potter's sacrifice, reducing him to a weakened, non-corporeal state for over a decade. He is ultimately defeated in the Battle of Hogwarts when a Killing Curse he casts rebounds on him, since Harry had become the true master of the Elder Wand.
+
+Document: to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix feathers came from the same phoenix, Fawkes.
+
+Document: ## Harry Potter
+
+Document: ## Horcruxes
+
+Query: who is elon musk
+
+Document: ## Hermione Granger
+Hermione Granger is one of Harry's closest friends, sorted into Gryffindor. She is Muggle-born, meaning both her parents are non-magical (dentists, in her case). She is characterized by exceptional academic ability, a strong moral compass, and a dedication to research and rule-following that occasionally clashes with Harry and Ron's more impulsive approach. She founded S.P.E.W. (the Society for the Promotion of Elfish Welfare) to advocate for house-elf rights. She eventually marries Ron Weasley.
+
+Document: ================================================================
+
+[SECTION: TIMELINE OF MAJOR EVENTS]
+
+Document: ## Horcruxes
+
+Document: ================================================================
+END OF KNOWLEDGE BASE
+
+Query: who is hermione
+
+Document: ## Hermione Granger
+Hermione Granger is one of Harry's closest friends, sorted into Gryffindor. She is Muggle-born, meaning both her parents are non-magical (dentists, in her case). She is characterized by exceptional academic ability, a strong moral compass, and a dedication to research and rule-following that occasionally clashes with Harry and Ron's more impulsive approach. She founded S.P.E.W. (the Society for the Promotion of Elfish Welfare) to advocate for house-elf rights. She eventually marries Ron Weasley.
+
+Document: ## Harry Potter
+
+Document: 2017 (epilogue, "Nineteen years later"): Harry, Ron, Hermione, and their peers see their own children off to Hogwarts for the first time.
+
+Document: to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix feathers came from the same phoenix, Fawkes.
+
+Query: who is hermone
+
+Document: ## Hermione Granger
+Hermione Granger is one of Harry's closest friends, sorted into Gryffindor. She is Muggle-born, meaning both her parents are non-magical (dentists, in her case). She is characterized by exceptional academic ability, a strong moral compass, and a dedication to research and rule-following that occasionally clashes with Harry and Ron's more impulsive approach. She founded S.P.E.W. (the Society for the Promotion of Elfish Welfare) to advocate for house-elf rights. She eventually marries Ron Weasley.
+
+Document: ## Horcruxes
+
+Document: to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix feathers came from the same phoenix, Fawkes.
+
+Document: - Lumos / Nox: Illuminates or extinguishes light from the tip of a wand.
+- Accio: A summoning charm that calls an object to the caster.
+- Obliviate: A memory-modifying charm that can erase or alter someone's memories.
+
