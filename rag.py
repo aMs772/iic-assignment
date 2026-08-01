@@ -21,7 +21,7 @@ load_dotenv()
 
 # uncomment lines 23, 24 and uncomment line 26, 27 if you want to use OpenAI instead of Google Generative AI
 llm = ChatOpenAI(model_name="gpt-4o-mini", temperature=0.2)
-embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
+embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
 
 # llm = ChatGoogleGenerativeAI(model="gemini-3.6-flash", temperature=0.2)
 # embeddings = GoogleGenerativeAIEmbeddings(model="gemini-embedding-2")

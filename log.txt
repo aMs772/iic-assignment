@@ -276,3 +276,24 @@ Severus Snape is the Potions Master (and later Defence Against the Dark Arts tea
 
 Document: to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix feathers came from the same phoenix, Fawkes.
 
+Query: who is ron weasley
+
+Document: ## Ron Weasley
+Ron Weasley is Harry's other closest friend, the sixth of seven children in the Weasley family, a wizarding family of relatively modest means but great warmth. Sorted into Gryffindor, Ron struggles at times with feelings of being overshadowed by his more famous or accomplished siblings and friends, but proves consistently loyal and is skilled at wizard chess, which factors into a key challenge in the first book. He eventually marries Hermione Granger and works at the Ministry of Magic and later at his brother George's joke shop.
+
+Document: to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix feathers came from the same phoenix, Fawkes.
+
+Document: HARRY POTTER WIZARDING WORLD — KNOWLEDGE BASE
+Compiled reference document for RAG chatbot demo
+================================================================
+
+[SECTION: HOGWARTS HOUSES]
+
+Document: 1992: Chamber of Secrets reopened; Basilisk attacks; Voldemort's diary Horcrux destroyed.
+1993: Sirius Black escapes Azkaban; revealed to be innocent, framed by Peter Pettigrew.
+1994: The Triwizard Tournament is held at Hogwarts; Cedric Diggory is killed; Voldemort is fully resurrected using Harry's blood.
+1995: Formation of Dumbledore's Army; Battle of the Department of Mysteries; Sirius Black dies.
+1996: Dumbledore is killed by Snape atop the Astronomy Tower.
+1997-1998: Harry, Ron, and Hermione hunt Horcruxes while Voldemort takes control of the Ministry.
+May 2, 1998: The Battle of Hogwarts; deaths of Fred Weasley, Remus Lupin, Nymphadora Tonks, Severus Snape, and others; Voldemort is finally and permanently defeated by Harry Potter.
+
