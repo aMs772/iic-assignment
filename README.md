@@ -218,12 +218,16 @@ This is useful for debugging retrieval quality.
 The chatbot currently uses a custom text knowledge base.
 
 I have initially thought to make a helper bot which helps students aiming to become coordinators of IIC, 
-but I didnt have proper formatted data, so the RAG results were not upto the mark.
-Hence I switched to a bigger and cleaner document of harry potter universe (written by CLAUDE).
+but I didnt have proper formatted data, so the RAG results were not upto the mark. ( knowledge.txt and final_knowledgetxt corresponds to this.) 
+Hence I switched to a bigger and cleaner document of harry potter universe (written by CLAUDE) (harry_potter_knowledge_base.txt corresponds to this).
+(ugrulebook_2.pdf is also a knowledge base which is a more useful application).
 
 currently the project can handle only a single text based knowledge document but the project can easily be adapted to support:
 
-* PDF documents
+### UPDATE
+I have added an option to include pdf's also as knowledge base, to use pdf just change the lines 64-66, and also upload your pdf and change the file path as told earlier.
+
+* ~~PDF documents~~
 * Multiple text files
 * Markdown documents
 * Web pages
@@ -234,7 +238,7 @@ currently the project can handle only a single text based knowledge document but
 ## Future Improvements
 
 * Persistent Chroma database
-* PDF document support
+* ~~PDF document support~~
 * Multi-document retrieval
 * Hybrid search (keyword + vector search)
 * Chat history
