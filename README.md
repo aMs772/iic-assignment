@@ -133,11 +133,20 @@ But Unfortunately for getting an OpenAI key, You need to buy minimum 5$ credits 
 ```
 https://openai.com/index/openai-api/
 ```
-create a `.env` file
-and paste your OpenAI API key as shown below.
+create a `.env` file and paste your OpenAI API key as shown below.
 
 ```env
 OPENAI_API_KEY=your_openai_api_key
+```
+But if you want to use a free api key for testing this purpose, then you can use a free google api key.
+For getting a free google api key go to this website (google ai studio) and in api keys section you can create a new api key for free.
+
+```
+https://aistudio.google.com/api-keys
+```
+then create a ``.env`` file and paste your GOOGLE API KEY as 
+```env
+GOOGLE_API_KEY=your google api key
 ```
 
 ---
