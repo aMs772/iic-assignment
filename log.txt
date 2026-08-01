@@ -360,3 +360,103 @@ Document: 2017 (epilogue, "Nineteen years later"): Harry, Ron, Hermione, and the
 
 Document: to defeat Voldemort. His wand is made of holly with a phoenix feather core, notably a "brother wand" to Voldemort's own wand since both phoenix feathers came from the same phoenix, Fawkes.
 
+Query: who is elon musk
+
+Document: INDIAN INSTITUTE OF TECHNOLOGY BOMBAY 
+ 
+ 
+Rules & Regulations  
+for Undergraduate Programmes 
+ 
+ 
+ 
+Applicable to the B.Tech., B.S., B.Des.,   
+Dual Degree students admitted from the  
+Academic Year 2007 - 2008 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Updated: January, 2025
+
+Query: which course can i apply
+
+Document: INDIAN INSTITUTE OF TECHNOLOGY BOMBAY 
+ 
+ 
+Rules & Regulations  
+for Undergraduate Programmes 
+ 
+ 
+ 
+Applicable to the B.Tech., B.S., B.Des.,   
+Dual Degree students admitted from the  
+Academic Year 2007 - 2008 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Updated: January, 2025
+
+Query: what are honors courses?
+
+Document: INDIAN INSTITUTE OF TECHNOLOGY BOMBAY 
+ 
+ 
+Rules & Regulations  
+for Undergraduate Programmes 
+ 
+ 
+ 
+Applicable to the B.Tech., B.S., B.Des.,   
+Dual Degree students admitted from the  
+Academic Year 2007 - 2008 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Updated: January, 2025
+
+Query: what is course credit structure
+
+Document: INDIAN INSTITUTE OF TECHNOLOGY BOMBAY 
+ 
+ 
+Rules & Regulations  
+for Undergraduate Programmes 
+ 
+ 
+ 
+Applicable to the B.Tech., B.S., B.Des.,   
+Dual Degree students admitted from the  
+Academic Year 2007 - 2008 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Updated: January, 2025
+

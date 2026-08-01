@@ -14,5 +14,6 @@ dependencies = [
     "langchain-google-genai>=4.3.2",
     "langchain-openai>=1.4.1",
     "langchain-text-splitters>=1.1.2",
+    "pypdf>=6.14.2",
     "python-dotenv>=1.2.2",
 ]

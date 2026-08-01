@@ -61,7 +61,7 @@ def get_document_from_pdf(file_path: str) -> Document:
     doc = loader.load()[0]
     return doc
 
-# comment line 65 and uncomment line 66 if you want to use PDF files instead of TXT files
+# comment line 65 and uncomment line 66 if you want to use PDF files instead of TXT files and vice versa
 get_document = get_document_from_txt
 # get_document = get_document_from_pdf
 
